@@ -1,15 +1,11 @@
 # IPP_Poly_Calc
 
-Opis programu
+Program Description
 
-Tegoroczne duże zadanie polega na zaimplementowaniu operacji na wielomianach
-rzadkich wielu zmiennych.
+This year's major task involves implementing operations on sparse multivariable polynomials.
 
-W pierwszej częsci zadania zaimplementowane zostały operacje dodawania,
-odejmowania, mnożenia i wyliczania wartości wielomianu w punkcie x_0.
-Implementacja składa się z plików poly.c i poly.h.
+In the first part of the task, operations such as addition, subtraction, multiplication, and evaluation of the polynomial value at point x_0 were implemented. The implementation consists of poly.c and poly.h files.
 
-Druga część zadania polegała na zaimplementowaniu kalkulatora wykonującego operacje na wielomianach rzadkich wielu zmiennych.
+The second part of the task involved implementing a calculator that performs operations on sparse multivariable polynomials.
 
-W trzeciej częsci należało zaimplementować operację składania wielomianu, ale polecenie kalkulatora jej odpowiadające.
-Oprócz tego zaimplementowane zostały funkcje PolyOwnMonos oraz PolyCloneMonos.
+In the third part, the operation of composing a polynomial was to be implemented, corresponding to the command of the calculator. In addition, the PolyOwnMonos and PolyCloneMonos functions were implemented.
